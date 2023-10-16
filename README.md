@@ -15,10 +15,10 @@ I'm a tech nerd who has the aim of acquiring knowledge in the tech field
 * 🌐⠀My website: [**adventureadept.carrd.co**](https://adventureadept.carrd.co)
 * 📧⠀Email: <a href="adventureaddept@gmail.com">**adventureaddept@gmail.com**</a><br>
 
-**For more info about my devices go [here](https://qtpc.tech/devices)**
+**For more info about my devices go [here](https://adventureadept.carrd.co/#links)**
 
 ## Links:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white "Discord")](https://discord.com/users/699512154004652093)<br> [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/qtpctechhxd)
+[![Discord](https://www.flaticon.com/free-icon/discord_3670157)<br> [![Reddit](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white "Facebook")](https://facebook.com/qtpctechhxd)
 ***
 
 
