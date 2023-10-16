@@ -14,4 +14,3 @@ I'm a tech nerd who has the aim of acquiring knowledge in the tech field
 **For more info about my links go [here](https://adventureadept.carrd.co/#links)**
 
 ## And thank you for checking out my profile!
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
