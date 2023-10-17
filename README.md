@@ -11,6 +11,6 @@ I'm a tech nerd who has the aim of acquiring knowledge in the tech field
 * 🌐⠀My website: [**adventureadept.carrd.co**](https://adventureadept.carrd.co)
 * 📧⠀Email: <a href="adventureaddept@gmail.com">**adventureaddept@gmail.com**</a><br>
 
-**For more info about my links go [here](https://adventureadept.carrd.co/#links)**
+**For more info about my contacts go [here](https://adventureadept.carrd.co/#links)**
 
 ## And thank you for checking out my profile!
