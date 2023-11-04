@@ -1,7 +1,7 @@
 # Welcome to my profile 😎!
-I'm AdventureAdept (aka MuhammadShafiq/AdventureAdept), a kid with dreams.
+I'm AdventureAdept (aka MuhammadShafiq), a kid with dreams.
 
-I'm a tech nerd who has the aim of acquiring knowledge in the tech field
+I'm a nerd who has the aim of acquiring knowledge in the tech field
 ***
 ## Some info about me:
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**AdventureAdept**](https://namemc.com/AdventureAdept) (Java and Bedrock)
