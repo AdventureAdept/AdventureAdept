@@ -5,7 +5,7 @@ I'm a tech nerd who has the aim of acquiring knowledge in the tech field
 ***
 ## Some info about me:
 * 🎮⠀I play Minecraft and do tech stuff. My MC ign is [**AdventureAdept**](https://namemc.com/AdventureAdept) (Java and Bedrock)
-* 📍⠀I live in Ajman, UAE
+* 📍⠀I live in UAE
 * 🏫⠀I'm currently a student
 * 🖥⠀DualBooting Windows, Linux on my main rig
 * 💻 The Linux distribution that I use is [**Debian**](https://www.debian.org)
